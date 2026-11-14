@@ -1,0 +1,4 @@
+INSTALLER KINETIK (2 minutes)
+Option A - Netlify Drop : app.netlify.com/drop > glisse ce dossier > tu obtiens un lien.
+Option B - GitHub Pages : depose tous ces fichiers (a la racine) dans un depot PUBLIC > Settings > Pages > Branch main / root.
+Ensuite : ouvre le lien dans Chrome > menu 3 points > "Installer l'application".
